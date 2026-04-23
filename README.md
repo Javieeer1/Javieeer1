@@ -40,7 +40,7 @@
 ## 📚 Experiencia Académica
 
 - Creacion de bases de datos 
-- Proyecto o trabajo 2  
+- Creacion de páginas web
 
 ---
 
