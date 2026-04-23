@@ -1,16 +1,53 @@
-## Hi there 👋
+# 📘 README – Perfil del Estudiante
 
-<!--
-**Javieeer1/Javieeer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧾 Información General
 
-Here are some ideas to get you started:
+- **Nombre completo: Oscar Javier Avila Amaya**  
+- **Edad: 18**  
+- **Grado / Sección: B**  
+- **Especialidad:Desarrollo de Software**  
+- **Institución: INSAM**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Intereses
+
+- Dormir
+- Videojuegos
+- Comer
+
+---
+
+## 🧠 Habilidades
+
+- Buen razonamiento  
+- Aprendo rápido
+- Cooperativo
+
+---
+
+## 💻 Conocimientos Técnicos
+
+- Lenguajes de programación: HTML, phyton   
+- Herramientas tecnológicas: Compuutadora
+- Otros conocimientos: No 
+
+---
+
+## 📚 Experiencia Académica
+
+- Creacion de bases de datos 
+- Proyecto o trabajo 2  
+
+---
+
+## 🎯 Objetivos Personales
+
+- Graduarme con muchos conocimiento acerca de esta área 
+- Estudiar la carrera que tengo pensado
+
+---
+
+## 📌 Notas
+
+Información adicional que el estudiante desee agregar.
