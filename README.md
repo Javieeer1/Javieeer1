@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gemaortizprivados23-lgtm/gemaortizprivados23-lgtm/main/banner.png" width="95%" />
+  <img src="https://github.com/Javieeer1/Javieeer1/blob/4a3740f2c7244824653001c62cbcd06cc7ca5ad4/ChatGPT%20Image%2023%20abr%202026%2C%2009_23_58%20a.m..png" width="95%" />
 </p>
 # 📘 README – Perfil del Estudiante
 
